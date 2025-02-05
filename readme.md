@@ -62,20 +62,6 @@ npm install -g expo-cli
 
 ---
 
-## 📁 Project Structure
-```
-food-finder/
-├── components/            # Reusable UI components (RestaurantCard, SearchBar, etc.)
-├── screens/               # App screens (Home, Details, etc.)
-├── api/                   # API integration files (Yelp API requests)
-├── assets/                # Images and static assets
-├── navigation/            # Expo Router configuration
-├── .env                   # Environment variables
-└── App.js                 # Entry point of the app
-```
-
----
-
 ## 🤝 Contributing
 1️⃣ **Fork** the repository  
 2️⃣ **Create a new branch**: `git checkout -b feature-branch`  
