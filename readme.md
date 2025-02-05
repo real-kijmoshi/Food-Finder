@@ -5,6 +5,14 @@
 
 ---
 
+## 📸 App
+<div style="display: flex; justify-content: space-between;">
+   <img src="./images/screenshot1.png" width="200" height="400" alt="Home Screen">
+   <img src="./images/screenshot2.png" width="200" height="400" alt="Restaurant Details">
+</div>
+
+---
+
 ## ✨ Features
 ✅ **Location-based restaurant search** using real-time GPS coordinates  
 ✅ **Smart search functionality** for finding specific restaurants  
